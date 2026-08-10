@@ -1,0 +1,10 @@
+{
+  "wmape_modelo": 11.3237,
+  "wmape_baseline": 15.415,
+  "mejora_relativa_pct": 26.54,
+  "mae_modelo": 9.3149,
+  "rmse_modelo": 14.8145,
+  "n_train": 128200,
+  "n_val": 5600,
+  "n_test": 5600
+}
