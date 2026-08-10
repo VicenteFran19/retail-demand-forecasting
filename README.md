@@ -82,3 +82,7 @@ Compara la distribución de features entre el período de entrenamiento y el de 
 ## Stack técnico
 
 Python · Pandas · LightGBM · Scikit-learn · FastAPI · Pydantic · MLflow · Docker · Pytest · GitHub Actions · PSI (drift monitoring)
+
+## Desarrollado por.
+
+Ing. Francis Vicente
